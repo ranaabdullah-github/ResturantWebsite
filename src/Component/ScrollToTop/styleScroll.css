@@ -1,0 +1,28 @@
+/* --------------------------------------------------- */
+/* Scrolled Screen */
+/* ------------------------------------------------------- */
+
+
+  .ScrollToTop{
+    position:fixed;
+    bottom:12px;
+    left:50%;
+    width:40px;
+    height: 40px;
+    border-radius: 100%;
+    background: #cda45e;
+    color: #FFF;
+    z-index: 1;
+  }
+  .ScrollToTop .icon{
+    margin-top:10px;
+    animation: scrollTop 0.5s alternate ease infinite;
+  }
+  @keyframes scrollTop{
+    from{
+      transform: translateY(2px);
+    }
+    to{
+      transform: translateY(-1px);
+    }
+  }

@@ -1,0 +1,14 @@
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: end !important;
+    margin-right: 50px !important;
+}
+li .fa-shopping-cart {
+    font-size: 30px;
+    padding: 4px;
+}
+.nav-shopping{
+    height: 60px;
+}

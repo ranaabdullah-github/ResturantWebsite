@@ -1,0 +1,43 @@
+
+#heroDet {
+    width: 100%;
+    height: 80vh;
+    background: url("product-page.jpg") top center;
+    background-size: cover;
+    position: relative;
+    padding: 0;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll!important;
+    position: relative;
+    padding: 0;
+  }
+ 
+  #heroDet .container {
+    padding-top: 110px;
+  }
+  @media (max-width: 992px) {
+    #heroDet .container {
+      padding-top: 98px;
+    }
+  }
+  #heroDet h1 {
+    margin: 0;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #cda45e;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  #heroDet h1 span {
+    color: #cda45e;
+  }
+  
+  #heroDet h2 {
+    color: #eee;
+    margin-bottom: 10px 0 0 0;
+    font-size: 18px;
+  }
+  

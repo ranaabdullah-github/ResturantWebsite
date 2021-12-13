@@ -1,0 +1,23 @@
+/*--------------------------------------------------------------
+# Book a table button Menu
+--------------------------------------------------------------*/
+
+ 
+  .section-bg-reserved{
+    font-family: "Open Sans", sans-serif;
+    background: #2c2b29;
+    color: #fff;
+  }
+  
+  #idBookTable{
+      background: #cda45e;
+      border: 0;
+      padding: 10px 35px;
+      color: #fff;
+      transition: 0.4s;
+      border-radius: 50px;
+  }
+  textarea.form-control{
+    width:98%;
+  }
+ 

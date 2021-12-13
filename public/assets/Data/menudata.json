@@ -1,0 +1,81 @@
+{
+    "menu":[
+            {
+                "id":"1",
+                "title":"Lobster Bisque",
+                "component":"Lorem, deren, trataro, filede, nerada",
+                "photo":"/images/menu/lobster-bisque.jpg",
+                "price":"$5.95",
+                "filter":"filter-starters"
+            },
+            {
+                "id":"2",
+                "title":"Crab Cake",
+                "component":"Lorem, deren, trataro, filede, nerada",
+                "photo":"/images/menu/cake.jpg",
+                "price":"$7.95",
+                "filter":"filter-starters"
+            },
+            {
+                "id":"3",
+                "title":"Tuscan Grilled",
+                "component":"Lorem, deren, trataro, filede, nerada",
+                "photo":"/images/menu/tuscan-grilled.jpg",
+                "price":"$8.95",
+                "filter":"filter-specialty"
+            },
+            {
+                "id":"4",
+                "title":"Greek Salad",
+                "component":"Lorem, deren, trataro, filede, nerada",
+                "photo":"/images/menu/greek-salad.jpg",
+                "price":"$4.95",
+                "filter":"filter-salads"
+            },
+            {
+                "id":"5",
+                "title":"Lobster Roll",
+                "component":"Lorem, deren, trataro, filede, nerada",
+                "photo":"/images/menu/lobster-roll.jpg",
+                "price":"$6.40",
+                "filter":"filter-specialty"
+            },
+            {
+                "id":"6",
+                "title":"Bread Barrel",
+                "component":"Lorem, deren, trataro, filede, nerada",
+                "photo":"/images/menu/bread-barrel.jpg",
+                "price":"$5.95",
+                "filter":"filter-specialty"
+
+            },
+            {
+                "id":"7",
+                "title":"Caesar Selections",
+                "component":"Lorem, deren, trataro, filede, nerada",
+                "photo":"/images/menu/caesar.jpg",
+                "price":"$8.95",
+                "filter":"filter-salads"
+
+            },
+            {
+                "id":"8",
+                "title":"Mozzarella Stick",
+                "component":"Lorem, deren, trataro, filede, nerada",
+                "photo":"/images/menu/mozzarella.jpg",
+                "price":"$5.95",
+                "filter":"filter-starters"
+
+            },
+            {
+                "id":"9",
+                "title":"Spinach Salad",
+                "component":"Lorem, deren, trataro, filede, nerada",
+                "photo":"/images/menu/spinach-salad.jpg",
+                "price":"$6.95",
+                "filter":"filter-salads"
+
+            }
+
+    ]
+}

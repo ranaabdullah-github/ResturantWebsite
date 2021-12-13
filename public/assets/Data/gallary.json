@@ -1,0 +1,39 @@
+{
+    "menu":[
+            {
+                "id":"1",
+                "photo":"/images.menu.gallery-1.jpg"
+            },
+            {
+                "id":"2",
+                "photo":"/images.menu.gallery-2.jpg"
+            },
+            {
+                "id":"3",
+                "photo":"/images.menu.gallery-3.jpg"
+            },
+            {
+                "id":"4",
+                "photo":"/images.menu.gallery-4.jpg"
+            },
+            {
+                "id":"5",
+                "photo":"/images.menu.gallery-5.jpg"
+            },
+            {
+                "id":"6",
+                "photo":"/images.menu.gallery-6.jpg"
+
+            },
+            {
+                "id":"7",
+                "photo":"/images.menu.gallery-7.jpg"
+
+            },
+            {
+                "id":"8",
+                "photo":"/images.menu.gallery-8.jpg"
+
+            }
+    ]
+}

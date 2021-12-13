@@ -1,0 +1,124 @@
+/*
+---------------------------------------------
+about
+---------------------------------------------
+*/
+
+#about {
+    /* margin-top: 20px;
+    padding: 100px 0px 0px 0px; */
+    position: relative;
+    z-index: 9;
+  }
+  
+  #about .section-heading h2 {
+    padding-right: 120px;
+  }
+  
+  #about img {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  #about .left-text-content p {
+    margin-bottom: 25px;
+  }
+  
+  #about .right-content {
+    margin-left: 30px;
+  }
+  
+  #about .right-content .thumb {
+    position: relative;
+  }
+  
+  #about .right-content .thumb a {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    line-height: 70px;
+    text-align: center;
+    background-color: #fb5849;
+    color: #fff;
+    border-radius: 50%;
+    transform: translate(-35px, -35px);
+    transition: all .3s;
+  }
+  
+  #about .right-content .thumb a:hover {
+    opacity: .9;
+  }
+  .hov-img-zoom {
+    display: block;
+    overflow: hidden;
+}
+.hov-img-zoom img:hover {
+  width: 100%;
+  -webkit-transition: all 0.6s;
+  -o-transition: all 0.6s;
+  -moz-transition: all 0.6s;
+  transition: all 0.6s;
+}
+
+.bo-rad-10 {
+    border-radius: 10px;
+}
+.size2 {
+    max-width: 390px;
+}
+.m-l-r-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+.txt4 {
+  font-family: Montserrat;
+  font-weight: 400;
+  font-size: 12px;
+  color: #222222;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* img {
+  vertical-align: middle;
+  border-style: none;
+} */
+.tit2 {
+  font-family: Courgette;
+  font-size: 30px;
+  line-height: 1.2;
+  color: #d61c22;
+}
+
+.t-center {
+  text-align: center;
+}
+.tit3 {
+  font-family: Poppins;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 1.2;
+  color: #222222;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+}
+
+.size3 {
+  max-width: 513px;
+}
+
+.m-l-r-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+/* p {
+  font-family: Montserrat;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.7;
+  color: #666666;
+  margin: 0px;
+} */
